@@ -45,5 +45,13 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolijonovMuhammadAli/itTower_pages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SolijonovMuhammadAli/itTower_pages/issues"
+  },
+  "homepage": "https://github.com/SolijonovMuhammadAli/itTower_pages#readme"
 }
