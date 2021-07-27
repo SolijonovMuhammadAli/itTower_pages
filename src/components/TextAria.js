@@ -14,7 +14,7 @@ function TextAria() {
     }
     setTimeout(()=>{
         setAlert({data: "", type: ''})
-    },10000)
+    },9000)
     return (
         <div className='formTextArea'>
             <div className="formTextArea_child">

@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react';
-import {YMaps, Map, Clusterer, Placemark, TypeSelector, ZoomControl, GeolocationControl, RouteButton, TrafficControl } from 'react-yandex-maps'
+import {YMaps, Map, Clusterer, Placemark, 
+  TypeSelector, ZoomControl, GeolocationControl, RouteButton, TrafficControl } from 'react-yandex-maps'
 import Points from './server'
 import RingLoader from 'react-spinners/RingLoader'
 import 'antd/dist/antd.css'
