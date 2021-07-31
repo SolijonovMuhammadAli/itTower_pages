@@ -25,9 +25,9 @@ function App() {
       </div>
     ) : (
       <>
-      <Button type='primary' block>
-        <Link to='/form'>Muammoni haletish uchun bu yerga bosing</Link>
-      </Button>
+      {/* <Button type='primary' block>
+        <Link to='/form'>Muammoni hal etish uchun bu yerga bosing</Link>
+      </Button> */}
       <YMaps >
         <Map
           width='100vw'

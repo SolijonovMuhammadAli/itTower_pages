@@ -12,7 +12,7 @@ import TextAria from './components/TextAria';
 
 ReactDOM.render(
   <React.StrictMode>
-     <Router>
+     {/* <Router>
         <Switch>
           <Route exact path="/">
             <App />
@@ -24,7 +24,8 @@ ReactDOM.render(
             <TextAria />
           </Route>
         </Switch>
-    </Router>
+    </Router> */}
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
